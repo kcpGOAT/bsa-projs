@@ -40,10 +40,10 @@ CREATE TABLE first_pick_perf AS
     avg_ws_48 
    FROM 
      first_picks
-  INNER JOIN 
+   INNER JOIN 
     career_raptor ON
       first_picks.Player = career_raptor.name_common
-  INNER JOIN 
+   INNER JOIN 
     career_bpm_ws ON
       career_raptor.name_common = career_bpm_ws.player;
 
