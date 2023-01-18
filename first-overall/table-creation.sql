@@ -41,10 +41,10 @@ CREATE TABLE first_pick_perf AS
    FROM 
      first_picks
    INNER JOIN 
-    career_raptor ON
-      first_picks.Player = career_raptor.name_common
+     career_raptor ON
+       first_picks.Player = career_raptor.name_common
    INNER JOIN 
-    career_bpm_ws ON
-      career_raptor.name_common = career_bpm_ws.player;
+     career_bpm_ws ON
+       career_raptor.name_common = career_bpm_ws.player;
 
 SELECT * FROM first_pick_perf;
