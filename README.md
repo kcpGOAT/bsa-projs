@@ -10,5 +10,7 @@ Evolution of the NBA Big Man over the Last Decade: https://www.bruinsportsanalyt
 
 Impact of Zone Defense on Shaquille O'Neal: https://www.bruinsportsanalytics.com/post/shaq-zone-analysis
 
+History of Powerlifting and the 1RM Squat: https://www.bruinsportsanalytics.com/post/__1rm
+
 
 
